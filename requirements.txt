@@ -1,5 +1,5 @@
 Keras==2.2.0
-tensorflow==1.8.0
+tensorflow==2.6.4
 flask
 numpy
 pandas
